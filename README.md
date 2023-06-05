@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on firmware 
 - 📫 I can be reached at usa_butt@hotmail.com
+- More projects:
+  -    https://www.engineersgarage.com/author/usman-ali-butt/
+  -    https://www.engineersgarage.com/author/eg-projects/
 
 <!---
 UsmanAliButt/UsmanAliButt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
